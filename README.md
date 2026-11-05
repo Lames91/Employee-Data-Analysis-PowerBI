@@ -1,64 +1,85 @@
 # Employee Data Analysis & HR Insights Dashboard
 
-## 📌 Project Overview
+## 📊 Project Overview
 
-An interactive Human Resources (HR) analytics dashboard developed using Microsoft Power BI to analyze workforce data, identify employee distribution patterns, and provide actionable insights into organizational workforce structure.
+An interactive Human Resources (HR) analytics dashboard developed using Microsoft Power BI to explore workforce distribution, analyze employee demographics, monitor hiring trends, and evaluate key workforce metrics.
 
-The dashboard transforms employee data into meaningful visualizations, helping explore workforce composition, hiring trends, departmental distribution, salary metrics, and geographic diversity.
+The project transforms employee records into interactive visual insights, providing a comprehensive overview of organizational workforce structure and supporting data-driven HR analysis.
 
-## 🎯 Key Business Insights
+## 🎯 Business Objectives
 
-### 1. Departmental Workforce Distribution
-- Manufacturing has the highest employee count with **140 employees**.
-- Quality Control ranks second with **89 employees**.
-- Highlights workforce concentration across major operational departments.
+- Analyze employee distribution across organizational departments.
+- Understand workforce distribution across different centers.
+- Examine gender composition and workforce demographics.
+- Identify historical hiring patterns and recruitment trends.
+- Monitor workforce-related KPIs, including total employees, annual salary, and average job rate.
+- Explore geographic workforce distribution.
 
-### 2. Employee Distribution by Center
-- Main Center: **32.66%**
-- North Center: **31.53%**
-- Indicates that a significant proportion of the workforce is concentrated in these two centers.
+## 📈 Dashboard Features & Key Insights
+
+### 1. Employees by Department
+- Manufacturing: 140 employees.
+- Quality Control: 89 employees.
+- Account-related department: 84 employees.
+- Quality Assurance: 67 employees.
+
+Provides a comparative view of workforce distribution across departments and identifies departments with the highest employee concentration.
+
+### 2. Employees by Center
+
+Workforce distribution across organizational centers:
+
+| Center | Employee Share |
+|---|---:|
+| Main | 32.66% |
+| North | 31.53% |
+| West | 16.00% |
+| East | 9.95% |
+| South | 9.81% |
 
 ### 3. Gender Distribution
-- Male employees: **65%**
-- Female employees: **35%**
-- Provides an overview of workforce gender composition.
 
-### 4. Hiring Trends
-- A significant increase in employee hiring was observed between **2017 and 2019**.
-- Hiring declined in **2020**, highlighting a change in recruitment patterns during that period.
+- Male: 65%
+- Female: 35%
 
-### 5. Workforce Overview
+Provides an overview of workforce gender composition.
+
+### 4. Hiring Trends (2016–2020)
+
+Analyzes employee hiring patterns over time, highlighting:
+- Growth in hiring between 2016 and 2019.
+- A peak in hiring activity in 2019.
+- A decline in 2020.
+
+### 5. Workforce KPI Overview
+
 | KPI | Value |
 |---|---:|
 | Total Employees | 689 |
 | Total Annual Salary | 17M |
-| Average Job Rate | 3.6 |
+| Average Job Rate | 3.59 |
 
 ### 6. Geographic Workforce Distribution
-The workforce is primarily distributed across employees from:
-- Egypt
-- Saudi Arabia
-- Syria
 
-This analysis provides insights into workforce geographic composition and supports further workforce planning analysis.
+Uses map-based visualization to explore employee geographic distribution and workforce concentration across different locations.
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Power BI:** Interactive dashboard development and data visualization.
+- **Microsoft Power BI:** Dashboard development and interactive data visualization.
 - **Microsoft Excel:** Data source and data preparation.
 
-## 📊 Analytical Capabilities
+## 🔍 Analytical Techniques
 
 - Workforce distribution analysis.
-- Department-level employee comparison.
-- Gender composition analysis.
-- Recruitment trend analysis.
-- Salary and workforce KPI monitoring.
-- Geographic workforce analysis.
+- Departmental comparison.
+- Demographic analysis.
+- Hiring trend analysis.
+- KPI monitoring.
+- Geographic data visualization.
 
-## 💡 Business Value
+## 💼 Business Value
 
-This project demonstrates how HR data analytics can transform employee records into structured insights, improve workforce visibility, and support data-driven human resource planning and management decisions.
+This project demonstrates how HR analytics and business intelligence can help organizations understand workforce composition, identify distribution patterns, monitor key workforce indicators, and support informed workforce planning decisions.
 
 ## 👩‍💻 Author
 
@@ -66,6 +87,5 @@ This project demonstrates how HR data analytics can transform employee records i
 
 Data & Business Analyst | Python Developer | AI Automation
 
-[GitHub Portfolio](https://github.com/Lames91)
-
-[LinkedIn Profile](https://linkedin.com/in/lamees-nabeel-bb4a81116)
+- GitHub: https://github.com/Lames91
+- LinkedIn: https://linkedin.com/in/lamees-nabeel-bb4a81116
